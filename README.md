@@ -9,5 +9,3 @@ Below is a link to the final project:
 https://shae-thompson.github.io/Horiseon-Refactoring/
 
 And a screenshot of the application:
-<img /assets/images/final-projectscreenshot>
-
